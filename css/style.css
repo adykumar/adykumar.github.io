@@ -311,7 +311,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: #eee; /*url(../img/bg1.jpg) no-repeat top center;*/
+	background: /*#eee;*/ url(../img/bgcolor.jpg) no-repeat top center;
     background-size: cover;
     height: auto;
 }
