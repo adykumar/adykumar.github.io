@@ -338,7 +338,7 @@ hr {
 }
 
 .intro .slogan h2 {
-	color: #555;
+	color: #222;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
@@ -347,8 +347,8 @@ hr {
 	background-color: rgba(0, 0, 0, 0);
 	text-decoration: none;
 	text-transform: uppercase;
-	border-width: 0px;
-	border-color: #777;
+	border-width: 30px;
+	border-color: #fff;
 	border-style: none;
 	text-shadow: -1px 0 1px #777;
 }
